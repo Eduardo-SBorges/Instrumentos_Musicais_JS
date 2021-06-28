@@ -1,7 +1,7 @@
 INSTALAÇÃO
 
-1. Salvar localmente as pastas.
-2. Executar o arquivo logica_proposicional.js (abrir com o aplitivo node.js ou Visual Studio Code).
+1. Salvar localmente os arquivos.
+2. Executar o arquivo instrumentos.js (abrir com o aplitivo node.js ou Visual Studio Code).
 3. Executar o comando: node instrumentos
 
 Exemplo de uso do programa:
