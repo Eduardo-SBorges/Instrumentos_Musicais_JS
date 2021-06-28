@@ -2,12 +2,18 @@ INSTALAÇÃO
 
 1. Salvar localmente as pastas.
 2. Executar o arquivo logica_proposicional.js (abrir com o aplitivo node.js ou Visual Studio Code).
-3. Executar o comando: node instrumentos_musicais.
+3. Executar o comando: node instrumentos
 
 Exemplo de uso do programa:
 
-1ª hipótese: p -> ~r  |
-2ª hipótese: ~r -> q
-------------------------------
-Dedução: p -> q |
-Teorema: Silogismo Hipotético
+------------------------------------------------------------
+       Cadastro de Instrumentos Musicais na Loja XYZ
+------------------------------------------------------------
+1. Incluir Instrumento
+2. Listar Instrumentos
+3. Pesquisar por Tipo
+4. Excluir Instrumento
+5. Estatística
+6. Finalizar
+
+Opção: 2
