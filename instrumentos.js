@@ -419,3 +419,4 @@ function estatistica() {
 
     continuar()
 }
+// teste
